@@ -43,13 +43,10 @@ const lu2ky = {
 
 <br/>
 
-<img alt="Lu2ky's Github Stats"
-     src="https://github-readme-stats.vercel.app/api?username=Lu2ky&theme=hacker&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39FF78&icon_color=00C8FF&text_color=C9D1D9" />
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lu2ky&theme=github_dark)
 <br/>
 
-<img alt="Top Languages"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu2ky&theme=hacker&hide_border=true&bg_color=0D1117&title_color=39FF78&text_color=C9D1D9&layout=compact" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lu2ky&theme=github_dark)
 
 </div>
 
