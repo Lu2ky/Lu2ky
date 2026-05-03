@@ -12,7 +12,7 @@
 
 ```ts
 const lu2ky = {
-  learning:  ["Full-Stack Development ⚡", "Open-Source 🔥"],
+  learning:  ["Full-Stack Development ⚡", "Open-Source 🔥", "Minecraft modding 🧊"],
   languages: ["Java", "TypeScript", "JavaScript", "Golang"],
   focus:     "Building cool things and shipping code",
 };
