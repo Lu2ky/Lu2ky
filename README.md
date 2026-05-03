@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:39ff78,100:00c8ff&height=180&section=header&text=Lu2ky&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Linux%20Tard&descAlignY=58&descColor=cccccc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF78&center=true&vCenter=true&width=500&lines=Learning+Full-Stack+Development+%E2%9A%A1;Building+in+public+%F0%9F%94%A5;Java+%7C+TypeScript+%7C+JavaScript+%7C+Golang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF78&center=true&vCenter=true&width=500&lines=Learning+Full-Stack+Development+%E2%9A%A1;Building+in+public+%F0%9F%94%A5;Java+%7C+TypeScript+%7C+JavaScript+%7C+Golang+%7C+Rust)](https://git.io/typing-svg)
 
 </div>
 
