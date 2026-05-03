@@ -3,7 +3,7 @@
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lu2ky)](https://git.io/streak-stats)
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Java, TypeScript, JavaScript, Golang💻
 
