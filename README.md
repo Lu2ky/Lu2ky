@@ -2,7 +2,7 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
  
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lu2ky&theme=hacker&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a style="text-align: center;" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lu2ky&theme=hacker&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
